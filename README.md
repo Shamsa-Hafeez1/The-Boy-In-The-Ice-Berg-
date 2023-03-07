@@ -19,7 +19,7 @@ Powers (applicable from Level 2):
 
 Level 1: Aang must avoid collision with fireballs without having any powers 
 Level 2: Defend Aang from fireballs using powers 
-Level 3: Defear Aang from Zuko to win the game using powers 
+Level 3: Defeat Aang from Zuko to win the game using powers 
 
 ## How to Compile: 
 - Open this folder in VSCode
